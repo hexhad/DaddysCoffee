@@ -17,7 +17,8 @@ http://192.168.8.100:8088/api
 ![](images/Screenshot%202020-11-28%20141209.png)
 
 ## Step 3
-Import the Database (/Database) and Run the Server
+1. Import database to MySql(/Database/Coffee.sql)
+2. Run the Server
 
 ## Step 4
 Build the App and Run on an Emulator
